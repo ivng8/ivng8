@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Background](https://github.com/ivng8/image_library/blob/main/Blue%20Futuristic%20Illustrative%20Artificial%20Intelligence%20Project%20Presentation.png)
+![Background](https://github.com/ivng8/image_library/blob/main/Blue%20Futuristic%20Illustrative%20Artificial%20Intelligence%20Project%20Presentation.png)
 
 I'm Ivan from New York, and my interests lie in the riveting intersection of mathematics and computer science, where computation meets application. Here, you'll find work ranging from large-scale objected-oriented design, algorithms, theorem-solving, and data exploration and analysis. Each project or repo represents a journey and accumulation of work that displays my growth in all types of skills and topics.
 
