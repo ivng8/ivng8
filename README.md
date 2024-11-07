@@ -6,6 +6,6 @@ I'm Ivan from New York, and my interests lie in the riveting intersection of mat
 
 I thrive in the logical challenges inherent in enabling computers to tackle problems that surpass the capabilities of the human mind. I aspire to expand my knowledge and skills in quantitative and data analysis, software and data engineering, and actuarial science. My journey in the world of technology has led me to explore the inner workings of computation theory. With a strong background in both fields, I bring a unique set of problem-solving abilities to my projects, aiming to provide efficient and elegant technical solutions.
 
-- 🔭 I’m currently working on a Machine Learning project to emulate the function of Spotify Suggestion.
-- 🌱 I’m currently learning Linux Desktop Customization.
+- 🔭 I’m currently working on an LSTM project for short-term stock trading options.
+- 🌱 I’m currently learning Matrix Methods and the mathematical background of Machine Learning.
 - 📫 How to reach me: ivanng2121@gmail.com 
